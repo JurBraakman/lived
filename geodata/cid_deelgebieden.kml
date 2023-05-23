@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>
+      <![CDATA[Deelgebieden CID]]>
+    </name>
+    <Style>
+      <ListStyle>
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <NetworkLink>
+      <Region>
+        <LatLonAltBox>
+          <north>52.0876693</north>
+          <south>52.0601742</south>
+          <east>4.3557351</east>
+          <west>4.3099223</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <viewRefreshMode>onRequest</viewRefreshMode>
+        <href>https://mapwarper.net/maps/73538.kml?DBOX=4.3099223,52.0601742,4.3557351,52.0876693,1</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>

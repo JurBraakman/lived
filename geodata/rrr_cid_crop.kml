@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>
+      <![CDATA[CID Reuring Ruis Rust]]>
+    </name>
+    <Style>
+      <ListStyle>
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <NetworkLink>
+      <Region>
+        <LatLonAltBox>
+          <north>52.0937455</north>
+          <south>52.0521533</south>
+          <east>4.359203</east>
+          <west>4.2880134</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <viewRefreshMode>onRequest</viewRefreshMode>
+        <href>https://mapwarper.net/maps/73546.kml?DBOX=4.2880134,52.0521533,4.359203,52.0937455,1</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>

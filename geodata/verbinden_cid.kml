@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>
+      <![CDATA[CID Ontmoeten en Verbinden]]>
+    </name>
+    <Style>
+      <ListStyle>
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <NetworkLink>
+      <Region>
+        <LatLonAltBox>
+          <north>52.0940703</north>
+          <south>52.0524076</south>
+          <east>4.3600083</east>
+          <west>4.286698</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <viewRefreshMode>onRequest</viewRefreshMode>
+        <href>https://mapwarper.net/maps/73545.kml?DBOX=4.286698,52.0524076,4.3600083,52.0940703,1</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>

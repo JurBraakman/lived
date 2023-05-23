@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>
+      <![CDATA[Maquette CID Den Haag]]>
+    </name>
+    <Style>
+      <ListStyle>
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <NetworkLink>
+      <Region>
+        <LatLonAltBox>
+          <north>52.0945042</north>
+          <south>52.0594021</south>
+          <east>4.3546717</east>
+          <west>4.2955922</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <viewRefreshMode>onRequest</viewRefreshMode>
+        <href>https://mapwarper.net/maps/73496.kml?DBOX=4.2955922,52.0594021,4.3546717,52.0945042,1</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
